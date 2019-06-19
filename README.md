@@ -1,5 +1,5 @@
 # NordArc Theme
-# Currently WIP
+## Currently WIP
 
 NordArc is a fork of [SolArc Theme](https://github.com/schemar/solarc-theme) which is itself a fork of [Arc Theme](https://github.com/horst3180/Arc-theme). It uses the former's tooling for changing the Arc Theme color palette, but uses the Nord palette rather than the Solarized one used in solarc-theme.
 
